@@ -15,7 +15,7 @@
  
 
 - 😄 Sou desenvolvedor front-end e aspirante a fullstack, tenho focado meus estudos em desenvolvimento web em geral.
-- 👯 No momento estou estudando React e React.js
+- 👯 No momento estou estudando React.js e React Native
   
 <div align='center'> 
   <a href = "mailto:brunoctsb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
