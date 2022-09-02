@@ -14,7 +14,7 @@
   ##
  
 
-- 😄 Sou desenvolvedor front-end e aspirante a fullstack, tenho focado meus estudos em desenvolvimento web em geral.
+- 😄 Sou desenvolvedor front-end, apaixonado por desafios e soluções simples.
 - 👯 No momento estou estudando React.js e React Native
   
 <div align='center'> 
