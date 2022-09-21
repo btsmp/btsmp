@@ -15,7 +15,7 @@
  
 
 - 😄 Sou desenvolvedor fullstack, apaixonado por desafios e soluções simples.
-- 👯 No momento estou estudando React.js e React Native
+- 👯 No momento estou focado ReactJs, NodeJs e Typescript
   
 <div align='center'> 
   <a href = "mailto:brunoctsb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
